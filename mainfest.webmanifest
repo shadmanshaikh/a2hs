@@ -5,7 +5,7 @@
     "display": "fullscreen",
     "icons": [
       {
-        "src": "icon/fly.png",
+        "src": "fly.png",
         "sizes": "192x192",
         "type": "image/png"
       }
