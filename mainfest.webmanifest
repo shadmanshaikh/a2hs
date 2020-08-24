@@ -1,0 +1,17 @@
+
+{
+    "background_color": "purple",
+    "description": "my test for a2hs",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "icon/fly.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "its a fly ",
+    "short_name": "a2hs by shad",
+    "start_url": "a2hs-live/index.html"
+  }
+  

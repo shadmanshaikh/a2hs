@@ -1,0 +1,10 @@
+*{
+    background-color: bisque;
+}
+h1{
+    color: red;
+    font-family: monospace;
+}
+h1:hover{
+    background-color: teal;
+}
